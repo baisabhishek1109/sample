@@ -1,3 +1,2 @@
- abhishek amit jain bais nahi
-
-  ohhh yahhhh
+if(username = “rajat”)
+ console.log(‘rajat’);
