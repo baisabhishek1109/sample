@@ -1,2 +1,3 @@
-﻿if(username = “abhishek”)
+﻿ console.log(‘rajat’);
  console.log(‘abhishek’);
+
