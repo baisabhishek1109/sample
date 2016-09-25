@@ -1,2 +1,4 @@
 if(username = “rajat”)
  console.log(‘rajat’);
+else
+  console.log(‘abhishek’);
