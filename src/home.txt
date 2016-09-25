@@ -1,4 +1,4 @@
-if(username = “rajat”)
- console.log(‘rajat’);
+﻿if(username = “abhishek”)
+ console.log(‘abhishek’);
 else
-  console.log(‘abhishek’);
+ console.log('rajat');
